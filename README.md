@@ -48,7 +48,7 @@ This project analyzes video game sales by region, platform, and genre to __ident
 - __Regional segmentation__: Comparison of platform and genre preferences in North America, Europe, and Japan.
 - __Hypothesis testing__: Comparison of average ratings across platforms and genres.
 
-###Insights and Recommendations
+### Insights and Recommendations
 #### Regional Differences in Platform and Title Sales
 - Sales data reveals __notable differences across regions__ in terms of top-performing platforms and video game titles.
 - Understanding the __industry context__ is essential-market behavior varies by region, and insights are richer when combined with domain knowledge.
@@ -132,7 +132,7 @@ This project analyzes the sales funnel to track user progression through purchas
 - **Sales funnel analysis**: Identified key events and calculated the proportion of users progressing through each stage.
 - **A/A/B experimentation**: Compared conversion rates between control and test groups using statistical hypothesis testing.
 
-###Final Insights and Recommendations
+### Final Insights and Recommendations
 
 ![Food 1 Final](assets/img/Food_1_final.png)
 
