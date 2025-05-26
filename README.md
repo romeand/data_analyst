@@ -6,8 +6,8 @@ My career spans journalism, education, government, and consulting, which has equ
 
 ### Technical skills
 
--Analysis and data management with Excel/SQL/Python
--Data visualization and story narration with Power BI/Tableau
+- Analysis and data management with Excel/SQL/Python
+- Data visualization and story narration with Power BI/Tableau
 
 ### Core competencies
 
@@ -37,34 +37,34 @@ This project analyzes video game sales by region, platform, and genre to __ident
 
 ### Key questions
 
-1.Which platforms have the highest global sales, and how do these vary by region?
-2.Which video game genres are most popular in North America, Europe, and Japan?
-3.What is the relationship between user/critic scores and global video game sales?
-4.Are there significant differences in average ratings across platforms and genres?
+1. Which platforms have the highest global sales, and how do these vary by region?
+2. Which video game genres are most popular in North America, Europe, and Japan?
+3. What is the relationship between user/critic scores and global video game sales?
+4. Are there significant differences in average ratings across platforms and genres?
 
 ### Methodology
--__Data preprocessing__:Data cleaning (missing values, duplicates, column format and appropiate data types)
--__Exploratory data analysis__:Identification of the most popular platforms and genres, and evaluation of the correlation between user/critic scores and sales.
--__Regional segmentation__: Comparison of platform and genre preferences in North America, Europe, and Japan.
--__Hypothesis testing__: Comparison of average ratings across platforms and genres.
+- __Data preprocessing__:Data cleaning (missing values, duplicates, column format and appropiate data types)
+- __Exploratory data analysis__:Identification of the most popular platforms and genres, and evaluation of the correlation between user/critic scores and sales.
+- __Regional segmentation__: Comparison of platform and genre preferences in North America, Europe, and Japan.
+- __Hypothesis testing__: Comparison of average ratings across platforms and genres.
 
 ###Insights and Recommendations
 #### Regional Differences in Platform and Title Sales
--Sales data reveals __notable differences across regions__ in terms of top-performing platforms and video game titles.
--Understanding the __industry context__ is essential-market behavior varies by region, and insights are richer when combined with domain knowledge.
+- Sales data reveals __notable differences across regions__ in terms of top-performing platforms and video game titles.
+- Understanding the __industry context__ is essential-market behavior varies by region, and insights are richer when combined with domain knowledge.
 
 #### Platform Lifecycles and Strategic Timing
--Although some platforms showed __strong historical sales, many had already __peaked by 2017__ and were declining by the time of analysis.
--The launch of __next-generation consoles in 2020__ was foreseeable in 2017, as both hardware and major game titles were nearing final development stages.
+- Although some platforms showed __strong historical sales, many had already __peaked by 2017__ and were declining by the time of analysis.
+- The launch of __next-generation consoles in 2020__ was foreseeable in 2017, as both hardware and major game titles were nearing final development stages.
 
 #### Review Scores and Sales Correlation
--A __stronger positive correlation__ was found between __critic scores__ and games sales than between user scores and sales.
--This may be due to the __promotional impact of critic reviews__, which tend to have greater media visibility.
--Nonetheless, some games with __low critic ratings still sold well__, showing that critic influence is significant but no definitive.
+- A __stronger positive correlation__ was found between __critic scores__ and games sales than between user scores and sales.
+- This may be due to the __promotional impact of critic reviews__, which tend to have greater media visibility.
+- Nonetheless, some games with __low critic ratings still sold well__, showing that critic influence is significant but no definitive.
 
 #### Data Processing as a Foundation for Insight
--Reliable analysis required extensive __data cleaning and preprocessing__, including handling missing values, duplicates, and column formatting.
--Proper data manipulation enabled the creation of __effective visualizations__ and more accurate interpretations.
+- Reliable analysis required extensive __data cleaning and preprocessing__, including handling missing values, duplicates, and column formatting.
+- Proper data manipulation enabled the creation of __effective visualizations__ and more accurate interpretations.
 
 ### Featured Visualizations
 
@@ -79,7 +79,7 @@ This project analyzes video game sales by region, platform, and genre to __ident
 
 ![Correlación Videojuegos](assets/img/VJ_2_correlation.png)
 
--Manipulated the dataset to enable **comparative visualizations** across key variables.
+- Manipulated the dataset to enable **comparative visualizations** across key variables.
 - Analyzed the correlation between **user scores vs. sales** and **critic reviews vs. sales**.
 - Identified a **stronger positive correlation** between critic scores and sales, while user scores showed a more **scattered relationship**.
 
@@ -97,7 +97,7 @@ This project analyzes video game sales by region, platform, and genre to __ident
 
 - More recent top-selling platforms include: **PlayStation 4, Xbox One, and Wii U**.
 
--We identified that older platforms typically reached peak sales in 4–6 years, while newer platforms seem to peak faster—around 3 years—and with lower overall sales.
+- We identified that older platforms typically reached peak sales in 4–6 years, while newer platforms seem to peak faster—around 3 years—and with lower overall sales.
 
 Explore more project details in the [full repository](https://github.com/romeand/Data_analytics_portfolio/blob/a761dfa35c2927441f2489d72ee4308c638e7893/Sprint%206%20Proyecto%20Integrado%20modulo%201.ipynb).
 
