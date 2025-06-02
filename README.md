@@ -9,6 +9,9 @@ I specialize in:
 
 ➡️ If you're looking for a consultant, freelancer, or collaborator who can simplify complexity and deliver insights with clarity, scroll down and take a look at my work.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/andressaldivarda/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:andres.saldivar@gmail.com)
+
 # Table of Contents
 
 - [About Me](#about-me)
