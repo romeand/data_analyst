@@ -13,10 +13,6 @@ My career spans journalism, education, government, and consulting, which has equ
 
 Assertive communication | Stakeholder Engagement | Critical Thinking & Problem Solving | Process Documentation & Quality Standards | Training Lead
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/andressaldivarda/)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:andres.saldivar@gmail.com)
-
 # Selected Projects
 ## Videogame sales analysis
 
