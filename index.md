@@ -17,6 +17,28 @@
 
 ---
 
+#  What I Offer
+
+I'm a data analyst and strategic communicator who turns complex information into clear, actionable stories. With a background that bridges journalism, public service, and tech, I help clients and teams make informed decisions through clean, compelling data insights.
+
+I specialize in:
+- Transforming messy or incomplete data into meaningful dashboards
+- Communicating technical results to non-technical audiences
+- Supporting public-facing organizations and professionals with data narratives that drive action
+
+➡️ If you're looking for a consultant, freelancer, or collaborator who can simplify complexity and deliver insights with clarity, scroll down and take a look at my work.
+
+---
+
+# Table of Contents
+
+- [About Me](#about-me)
+- [Technical Skills](#technical-skills)
+- [Core Competencies](#core-competencies)
+- [Selected Projects](#selected-projects)
+
+---
+
 # About Me
 
 Data analyst with experience in strategic analysis, institutional communication, and process optimization. I enjoy simplifying complex information and transforming data into actionable insights tailored to diverse audiences and stakeholders.
