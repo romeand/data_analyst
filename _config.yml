@@ -1,18 +1,6 @@
 title: Andrés Saldívar Martínez
-description: Hola! Check out some of the projects I've worked on in this portfolio.
 logo: /assets/img/nopal.png
+description: Hola! Check out some of the projects I've worked on in this portfolio. [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/andressaldivarda/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:andres.saldivar@gmail.com)
+
+#show_downloads:true
 theme: jekyll-theme-minimal
-# Markdown engine recomendado por Jekyll
-markdown: kramdown
-author:
-  name: Andrés Saldívar
-  email: andres.saldivar@gmail.com
-  linkedin: https://linkedin.com/in/andressaldivarda
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-exclude:
-  - README.md
-  - LICENSE
-  - Gemfile
-  - Gemfile.lock
